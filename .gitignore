@@ -1,0 +1,10 @@
+*.pyc
+*.swp
+.idea
+*.log
+media
+celerybeat*
+*.sql
+*.xls
+static
+
